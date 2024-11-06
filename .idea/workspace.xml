@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5af02c98-cc3d-44bd-826a-5917189887bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myscript.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730918620568</updated>
       <workItem from="1730918622039" duration="3134000" />
-      <workItem from="1730925119390" duration="1496000" />
+      <workItem from="1730925119390" duration="1774000" />
     </task>
     <servers />
   </component>
